@@ -24,7 +24,6 @@ Live Demo:
 To get started with the 30-Day JavaScript Projects showcased on this website, follow these steps:
 
 1. Explore the Projects:
-
     
     --Browse through the collection of 30 JavaScript projects on the website.
     
@@ -33,21 +32,18 @@ To get started with the 30-Day JavaScript Projects showcased on this website, fo
     --Click on the project title or image to access the project's dedicated page.
 
 2. Visit GitHub Repository:
-
     
     --On each project's page, you will find a link to the corresponding GitHub repository.
     
     --Click on the link to visit the repository and access the project's source code.
 
 3. Fork the Repository:
-
     
     --Once you are on the GitHub repository page, click on the "Fork" button in the top-right corner.
     
     --This will create a copy of the repository in your own GitHub account.
 
 4. Customize and Modify:
-
     
     --Clone the forked repository to your local machine.
     
@@ -68,7 +64,6 @@ To get started with the 30-Day JavaScript Projects showcased on this website, fo
    - Verify that the project functions as intended and that your modifications are working correctly.
 
 6. Deploy the Project (using Netlify):
-
     
     --Create an account on Netlify (if you haven't already) by visiting their website at [Netlify](https://www.netlify.com/).
     
@@ -102,8 +97,6 @@ Deploying the projects on Netlify offers several benefits, such as:
 The use of Netlify for deploying all 30 JavaScript projects in the Showcase highlights its effectiveness as a robust and reliable hosting solution. It ensures that visitors can easily access and explore each project, fostering an engaging and interactive experience.
 
 Feel free to navigate through the Showcase of 30-Day JavaScript Projects and experience the deployed projects firsthand.
-
-
 
 ## Deploy Status badge
 
