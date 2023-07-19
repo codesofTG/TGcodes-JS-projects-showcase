@@ -104,7 +104,6 @@ Feel free to navigate through the Showcase of 30-Day JavaScript Projects and exp
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe56430-9988-4415-8b47-5af61a839fb8/deploy-status)](https://app.netlify.com/sites/tgcodes-js-projects/deploys)
 
 
-
 ## Contributing
 
 Contributions are always welcome and highly appreciated! If you have any suggestions, improvements, bug fixes, or exciting ideas to enhance the Showcase of 30-Day JavaScript Projects, please don't hesitate to contribute.
